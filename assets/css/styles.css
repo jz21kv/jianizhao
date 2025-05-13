@@ -538,6 +538,7 @@ img {
 .qualification__title {
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
+  margin-bottom: var(--mb-0-5);
 }
 
 .qualification__subtitle {
